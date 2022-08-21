@@ -16,5 +16,4 @@ public class TransferPage {
         buttonTransferAction.click();
     }
 
-
 }
